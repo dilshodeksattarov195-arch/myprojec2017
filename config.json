@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvrocess",
+        "uuid": 9211639,
+        "checksum": "dfut5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
